@@ -1,4 +1,3 @@
-![Alberto_Pasini_-_Damascus_-_Walters_37193](https://user-images.githubusercontent.com/6322551/117418596-82e1af00-af13-11eb-984a-0a5ae69b7803.jpg)
 
 
 <!--
