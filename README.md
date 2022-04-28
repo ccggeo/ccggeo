@@ -1,6 +1,3 @@
-https://skyline.github.com/ccggeo/2022
-
-
 ![name-of-you-image](https://c1.staticflickr.com/7/6088/6059820946_db796635f0_b.jpg)
 <!--
 **ccggeo/ccggeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
